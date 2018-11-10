@@ -1,6 +1,5 @@
-# intro
-
-Frontend vs Backend vs Fullstack Web development
+# Frontend vs Backend vs Fullstack Web development
+![Alternate text](https://raw.githubusercontent.com/ParkHyunjun/tutorial/master/images/full-stack-development.jpg)
 
 ## Frontend Development
 | 관련성 있는 Technologies / Languages |
