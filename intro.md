@@ -2,9 +2,6 @@
 
 Frontend vs Backend vs Fullstack Web development
 
-## 개념정리
-![](https://raw.githubusercontent.com/ParkHyunjun/tutorial/master/images/tutorial_intro.png)
-
 ## Frontend Development
 | 관련성 있는 Technologies / Languages |
 | ------ |
