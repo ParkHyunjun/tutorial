@@ -8,4 +8,6 @@
 * [intro] [- 개발 기술 사항 분류 및 소개](https://github.com/ParkHyunjun/tutorial/blob/master/intro.md)
 * [node.js] [- 백엔드를 위한 서버사이드 프레임웤](https://github.com/ParkHyunjun/tutorial/blob/master/node_js.md) 
 
+## 2주차
+* [html] [- html5 course](https://github.com/ParkHyunjun/tutorial/blob/master/html.md)
 
